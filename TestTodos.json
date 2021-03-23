@@ -1,0 +1,11 @@
+[
+    {"id": 1,"task":"React JS","done":false},
+    {"id": 2,"task":"Angular","done":false},
+    {"id": 3,"task":"HTML","done":true},
+    {"id": 4,"task":"CSS","done":true},
+    {"id": 5,"task":"Responsive design","done":true},
+    {"id": 6,"task":"Git","done":true},
+    {"id": 7,"task":"JavaScript","done":true},
+    {"id": 8,"task":"ES6","done":false},
+    {"id": 9,"task":"Angular 10","done":false}
+]

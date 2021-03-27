@@ -53,8 +53,10 @@
                 {
                     "label": "Child Two of Child 4",
                     "expanded": false
-           },
-              {
+                }
+            ]
+        },
+        {
             "label": "Child 5",
             "expanded": false,
             "items": [
@@ -68,5 +70,8 @@
                 }
           ]
         }
-    ]
-}
+
+            ]
+        }
+        
+
